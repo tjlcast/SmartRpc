@@ -62,7 +62,7 @@ public class SerializationUtil {
     }
 
     /**
-     * 得到 class 的 schema.
+     * 得到 class 的 schema.(cached)
      * @param cls
      * @param <T>
      * @return

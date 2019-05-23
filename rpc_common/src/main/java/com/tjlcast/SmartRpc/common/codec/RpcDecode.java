@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * @author by tangjialiang
  *         时间 2019/5/23.
- *         说明 ...
+ *         说明 RPC 解码器
  */
 public class RpcDecode extends ByteToMessageDecoder {
 

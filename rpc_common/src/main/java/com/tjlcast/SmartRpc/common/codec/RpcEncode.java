@@ -8,7 +8,7 @@ import io.netty.handler.codec.MessageToByteEncoder;
 /**
  * @author by tangjialiang
  *         时间 2019/5/22.
- *         说明 ...
+ *         说明 RPC 编码器
  */
 public class RpcEncode extends MessageToByteEncoder {
 
