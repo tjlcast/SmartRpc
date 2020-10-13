@@ -16,7 +16,7 @@
     </modules>
 
     <properties>
-        <version.junit>4.11</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.slf4j>1.7.7</version.slf4j>
         <version.spring>3.2.12.RELEASE</version.spring>
         <version.netty>4.0.24.Final</version.netty>
